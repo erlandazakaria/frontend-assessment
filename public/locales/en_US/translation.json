@@ -1,0 +1,23 @@
+{
+    "login": {
+      "page": "Login Page",
+      "submit": "Login",
+      "placeholder": "Login Password",
+      "wrong": "Incorrect entry"
+    },
+    "dashboard": {
+        "page": "DASHBOARD PAGE",
+        "leftPanel-name": "Name",
+        "logout": "Logout",
+        "search": "Search",
+        "id": "No.",
+        "join-date": "Join Date",
+        "name": "Name",
+        "age": "Age",
+        "gender": "Gender",
+        "position": "Position",
+        "perPage": "Per Page",
+        "noPage": "Page",
+        "noPageOf": "of"
+    }
+}

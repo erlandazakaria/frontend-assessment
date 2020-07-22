@@ -1,0 +1,23 @@
+{
+    "login": {
+      "page": "Halaman Masuk",
+      "submit": "Masuk",
+      "placeholder": "Sandi untuk Masuk",
+      "wrong": "Sandi Salah"
+    },
+    "dashboard": {
+        "page": "HALAMAN DASBOR",
+        "leftPanel-name": "Nama",
+        "logout": "Keluar",
+        "search": "Cari",
+        "id": "No.",
+        "join-date": "Tanggal Gabung",
+        "name": "Nama",
+        "age": "Umur",
+        "gender": "Jenis Kelamin",
+        "position": "Jabatan",
+        "perPage": "Per Halaman",
+        "noPage": "Halaman",
+        "noPageOf": "dari"
+    }
+}
