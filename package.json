@@ -16,7 +16,7 @@
     "i18next": "^19.6.2",
     "i18next-browser-languagedetector": "^5.0.0",
     "i18next-http-backend": "^1.0.17",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.23",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-i18next": "^11.7.0",
